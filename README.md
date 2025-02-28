@@ -1,4 +1,4 @@
-[[51d8fbaa12f542780aa2f96e74537766.png](https://postimg.cc/N9ZghB20)](https://i.postimg.cc/j2SC7jsy/51d8fbaa12f542780aa2f96e74537766.png)
+https://postimg.cc/N9ZghB20
 
 The purpose of this project is to recreate a crop circle—a vast geometric pattern or set of patterns made in a cereal field. A Python script was developed using an object-oriented approach and employing the NumPy and Matplotlib libraries.
 
