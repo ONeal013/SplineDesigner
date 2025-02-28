@@ -1,3 +1,5 @@
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/j2SC7jsy/51d8fbaa12f542780aa2f96e74537766.png' border='0' alt='51d8fbaa12f542780aa2f96e74537766'/></a>
+
 The purpose of this project is to recreate a crop circle—a vast geometric pattern or set of patterns made in a cereal field. A Python script was developed using an object-oriented approach and employing the NumPy and Matplotlib libraries.
 
 Initially, the pattern to be reproduced and the objectives of the script were defined. Then, the base classes ("Interval", "Renderable", "Transformation", etc.) were implemented, followed by the function classes ("CoupleSplineFunction", "PolynomialFunction") and the transformation classes ("Rotation" and "Translation"). Finally, the "Curve" class was designed to handle the rendering of "Renderable" objects using Matplotlib, as well as the logic for assembling all the shapes and drawing them.
